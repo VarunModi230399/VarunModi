@@ -16,4 +16,6 @@ This repository is designed for:
 ## 📂 Repository Structure
 This repository contains multiple projects, each in its own folder with detailed documentation:
 
-``
+### Machine Learning Projects
+- [ML Projects](https://github.com/VarunModi230399/ML_Projects)
+
