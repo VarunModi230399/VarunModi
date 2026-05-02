@@ -22,5 +22,6 @@ This repository contains multiple projects, each in its own folder with detailed
 - [Multi-Agent LLM Systems with Google ADK](https://github.com/VarunModi230399/Multi-Agent-LLM-Systems-using-Google-ADK)
 - [LLM-Powered Application Development](https://github.com/VarunModi230399/LLM-Powered-Application-Development)
 - [Data Science Workflows and Web Scraping in Python](https://github.com/VarunModi230399/End-to-End-Data-Science-Workflows-in-Python)
-- 
+- [Fraud Detection MLOps](https://github.com/VarunModi230399/fraud-detection-mlops) | End-to-end MLOps pipeline — MLflow, Optuna HPO, Hydra config, model registry, PR-AUC optimisation on imbalanced credit card fraud data
+
 
