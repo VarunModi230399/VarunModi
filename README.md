@@ -24,5 +24,5 @@ This repository contains multiple projects, each in its own folder with detailed
 - [Data Science Workflows and Web Scraping in Python](https://github.com/VarunModi230399/End-to-End-Data-Science-Workflows-in-Python)
 - [Fraud Detection MLOps](https://github.com/VarunModi230399/fraud-detection-mlops) | End-to-end MLOps pipeline — MLflow, Optuna HPO, Hydra config, model registry, PR-AUC optimisation on imbalanced credit card fraud data
 - [ETT Forecaster](https://github.com/VarunModi230399/ett-forecaster) | Containerized time-series forecasting application — Docker Hub deployment, ready-to-run container image, and optimized forecasting pipelines using PyTorch LSTM, MLflow, Optuna, and Hydra
-
+- [LinkedIn AI Agent](https://github.com/VarunModi230399/linkedin-ai-agent) | Production-grade autonomous LinkedIn post generator — 11-node LangGraph pipeline, dual-LLM routing (GPT-4o/mini), agentic RAG over 4 live sources, human-in-the-loop approval, and full 7-service Docker stack with PostgreSQL checkpointing and Langfuse tracing
 
